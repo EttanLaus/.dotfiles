@@ -1,0 +1,9 @@
+background no
+out_to_console yes
+update_interval 1.0
+total_run_times 0
+use_spacer no
+mpd_host 127.0.0.1
+
+TEXT
+   $if_mpd_playing [^i(/home/andre/.dzen/ikoner/mpd.xbm) ^fg(\#71cbff) $mpd_status: ^fg(\#ffffff) ${mpd_smart} ^fg()] $endif ^fg(\#ffffff)  ^fg(\#b8e346) ${time %a %b %d %H:%M%P}  
