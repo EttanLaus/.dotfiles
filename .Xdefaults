@@ -1,0 +1,47 @@
+
+! urxvt settings & colors
+
+urxvt*background:          #1b1d1e
+urxvt*cursorBlink:         true
+urxvt*cursorColor:         #ebac54
+urxvt*font:                xft:DejaVu Sans Mono:pixelsize=10
+urxvt*boldFont:            xft:DejaVu Sans Mono:pixelsize=10
+urxvt:borderLess:	   true
+urxvt*geometry:            120x25
+
+urxvt*internalBorder:      0
+urxvt*saveLines:           4000
+urxvt*scrollBar:           false
+
+!---------------------------------------------------!
+! file:			.colours/nu							!
+! author:		Miro Algo <miroalgo.deviantart.com> !
+!---------------------------------------------------!
+
+*background:								#1b1d1e
+*foreground:								#ffffff
+
+! Black ------------------------------------------- !
+		*color0:							#1b1d1e
+		*color8:							#505050
+! Red --------------------------------------------- !
+		*color1:							#f03669
+		*color9:							#c75b79
+! Green ------------------------------------------- !
+		*color2:							#b8e346
+		*color10:							#c8e37e
+! Yellow ------------------------------------------ !
+		*color3:							#ffa402
+		*color11:							#ffbe4a
+! Blue -------------------------------------------- !
+		*color4:							#02a2ff
+		*color12:							#71cbff
+! Magenta ----------------------------------------- !
+		*color5:							#875c8d
+		*color13:							#e41f66
+! Cyan -------------------------------------------- !
+		*color6:							#6fa9d3
+		*color14:							#0078CE
+! White ------------------------------------------- !
+		*color7:							#d2d2d2
+		*color15:							#ffffff
